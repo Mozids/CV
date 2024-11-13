@@ -8,6 +8,7 @@ function App() {
 
   return (
     <>
+    <center><h5 className="font-semibold bg-gray-200 text-2xl pt-5 pb-5">PORTOFOLIO</h5></center>
     <Header/>
     <Profile/>
     </>
