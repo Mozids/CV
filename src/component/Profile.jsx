@@ -17,7 +17,10 @@ const Profile = () => {
                 <span className="text-sm text-gray-500 dark:text-gray-400">Pengusaha kaya raya</span>
               <div className="mt-4 flex space-x-3 lg:mt-6">
                   <a className="block max-w-sm p-6 bg-white border border-gray-200 rounded-xl">
-                  <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">hallo</h5>
+                  <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Sultan sulaiman</h5>
+                  <h5>Phone  : +62 878 6611 9248</h5>
+                  <h5>Email  : sutsult4n@gmail.com</h5>
+                  <h5>Github : https://github.com/Mozids</h5>
                   </a>
               </div>
             </div>

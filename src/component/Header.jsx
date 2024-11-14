@@ -9,7 +9,13 @@ const Header = () => {
         <Navbar.Toggle />
         <Navbar.Collapse>
             <Navbar.Link href="#" active>
-            2024
+            Home
+            </Navbar.Link>
+            <Navbar.Link href="#" active>
+            Profile
+            </Navbar.Link>
+            <Navbar.Link href="#" active>
+            Contact
             </Navbar.Link>
         </Navbar.Collapse>
     </Navbar>
