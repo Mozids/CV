@@ -15,9 +15,8 @@ const Profile = () => {
 
             <div className="w-full self-end px-4 lg:w-1/2">
               <div className="mt-10 lg:mt-0 lg:right-0">
-                <img src="src\img\kucingh.jpg" alt="meowwwwwwwwwwww" className="max-w-full mx-auto"/>
+                <img src="src\img\kucingh.jpg" alt="image" className="max-w-full mx-auto"/>
               </div>
-
             </div>
           </div>
         </div>
