@@ -1,7 +1,8 @@
-import { Card, Dropdown } from "flowbite-react";
+import { Card, Dropdown, } from "flowbite-react";
+import pp from '../assets/S.jpg'
 const Profile = () => {
   return (
-      <section id="home" className="pt-24">
+      <section id="home" className="pt-24 ">
         <div className="container scroll-smooth ">
           <div className="flex flex-wrap">
 
@@ -15,7 +16,7 @@ const Profile = () => {
 
             <div className="w-full self-end px-4 lg:w-1/2">
               <div className="mt-10 lg:mt-0 lg:right-0">
-                <img src="src\img\kucingh.jpg" alt="image" className="max-w-full mx-auto"/>
+                <img src={pp} alt="image" className="max-w-full mx-auto"/>
               </div>
             </div>
           </div>
