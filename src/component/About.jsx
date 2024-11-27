@@ -1,5 +1,5 @@
 import React from 'react'
-import ppp from '../assets/pppppp.png'
+import ppp from '../assets/pppppp.jpg'
 
 function about() {
   return (
