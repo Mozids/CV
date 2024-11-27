@@ -1,7 +1,7 @@
 import React from 'react'
 import ppp from '../assets/pppppp.jpg'
 
-function about() {
+function About() {
   return (
     <section id="about" className=" h-screen flex justify-center items-center" >
       <div className="container">
@@ -11,10 +11,11 @@ function about() {
           </div>
           <div className='flex lg:flex-row flex-col gap-5 justify-evenly items-center pt-10'>
             <div className="left">
-              <img src={ppp} alt="Foto" className="w-72" data-aos="fade-right" data-aos-offset="300" data-aos-easing="ease-in-sine"/>
+              <img src={ppp} alt="image" className="w-72" data-aos="fade-right" data-aos-offset="300" data-aos-easing="ease-in-sine"/>
             </div>
               <div className="w-1/2">
-                <h2 className="font-medium text-white bg-c px-8 py-3 rounded-xl lg:text-lg" data-aos="fade-left" data-aos-offset="300" data-aos-easing="ease-in-sine">I am very interested in frontend development and UI/UX. 
+                <h2 className="font-medium text-white bg-c px-8 py-3 rounded-xl lg:text-lg" data-aos="fade-left" data-aos-offset="300" data-aos-easing="ease-in-sine">
+                  I am very interested in frontend development and UI/UX. 
               I enjoy creating engaging and functional web applications 
               using HTML, CSS, JavaScript, as well as frameworks like React and Tailwind CSS. 
               My main goal is to build responsive and intuitive interfaces, 
@@ -27,6 +28,6 @@ function about() {
   );
 }
 
-export default about
+export default About
 
 
