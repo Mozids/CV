@@ -91,7 +91,7 @@ const gridItemVariants = {
 
 export const Skill = () => {
   return (
-    <div className=" min-h-screen py-24" id="skill" data-aos="fade-up" data-aos-offset="200" data-aos-easing="ease-in-sine">
+    <div className=" min-h-screen py-72 lg:py-24" id="skill" data-aos="fade-up" data-aos-offset="200" data-aos-easing="ease-in-sine">
       <div className="container mx-auto p-5" id="skill">
         <motion.h1
           className="text-c items-center text-xl sm:text-4xl md:text-4xl font-extrabold mb-4 text-center"
