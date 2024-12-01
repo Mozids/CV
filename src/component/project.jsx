@@ -3,7 +3,7 @@ import pppp from '../assets/Eror.jpg'
 
 function project() {
   return (
-    <section id="project" className="h-screen flex justify-center items-center sm:pt-60 lg:pt-0">
+    <section id="project" className="h-screen flex justify-center items-center lg:pb-24 pb-72 pt-24 lg:pt-0">
     <div className="container scroll-smooth">
         <div className="w-full px-4 mb-5 flex justify-center">
           <h4 className="text-c items-center text-xl sm:text-4xl md:text-4xl font-extrabold mb-4 text-center" data-aos="zoom-in" data-aos-offset="100" data-aos-easing="ease-in-sine">Project</h4>

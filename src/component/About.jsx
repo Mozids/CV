@@ -13,7 +13,7 @@ function About() {
             <div className="left">
               <img src={ppp} alt="image" className="w-72" data-aos="fade-right" data-aos-offset="300" data-aos-easing="ease-in-sine"/>
             </div>
-              <div className="w-1/2">
+              <div className="sm:w-1/2">
                 <h2 className="font-medium text-white bg-c px-8 py-3 rounded-xl lg:text-lg" data-aos="fade-left" data-aos-offset="300" data-aos-easing="ease-in-sine">
                   I am very interested in frontend development and UI/UX. 
               I enjoy creating engaging and functional web applications 

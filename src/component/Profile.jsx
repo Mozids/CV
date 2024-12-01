@@ -2,7 +2,7 @@ import pp from '../assets/S.jpg'
 
 const Profile = () => {
   return (
-      <section id="home" className="sm:pt-10 lg:pt-24 h-screen" data-aos="fade-up" data-aos-offset="300" data-aos-easing="ease-in-sine">
+      <section id="home" className="pt-24 lg:pt-24 h-screen" data-aos="fade-up" data-aos-offset="300" data-aos-easing="ease-in-sine">
         <div className="container scroll-smooth ">
           <div className="flex flex-wrap">
 

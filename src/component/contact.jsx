@@ -2,7 +2,7 @@ import React from 'react'
 
 function contact() {
   return (
-    <section id="contact" className="flex justify-center items-center sm:pt-96 lg:pt-10 sm:pb-10 lg:pb-40" >
+    <section id="contact" className="flex justify-center items-center lg:pb-24 pb-24 pt-24 lg:pt-0" >
       <div className="container scroll-smooth">
         <div className="w-full px-4 mb-5 flex justify-center">
           <h4 className="text-c items-center text-xl sm:text-4xl md:text-4xl font-extrabold mb-4 text-center">Contact</h4>
